@@ -8,7 +8,7 @@ public class testVecteur {
 	@Test
 	public void testVecteur() {
 		
-		fail("Not yet implemented");
+		//fail("Not yet implemented");
 		boolean test = false;
 		// test/1
 		vecteur v = new vecteur(1,1);
@@ -18,7 +18,7 @@ public class testVecteur {
 
 	@Test
 	public void testNorme() {
-		fail("Not yet implemented");
+		//fail("Not yet implemented");
 		boolean test = false;
 		// test/2
 		 vecteur v = new vecteur(1, 1);
